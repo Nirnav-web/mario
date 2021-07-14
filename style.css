@@ -1,0 +1,41 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button:hover{
+    background-color: white;
+    color: red;
+}
+.heading button{
+    float: right;
+    border: 1px solid red;
+}
+.mario_img{
+    width: 100%;
+}
+#start,#status{
+    font-size: 23px;
+}
+#copy_right_footer{
+    line-height: 2;
+    background-color: red;
+    color: white;
+    margin: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction_img{
+
+    display: inline-block;
+    width: 45%;
+}
+video{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
